@@ -3,7 +3,7 @@ intro
 Looker- show the scenario  why throuput is down
 ASk in gemini 
 
-
+Testing by adding new line 
 big query studio 
 
 - check for dataset
@@ -15,6 +15,7 @@ insights
 
 
 open big query 
+
 
 
 
