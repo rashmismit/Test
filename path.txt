@@ -1,0 +1,21 @@
+intro
+
+Looker- show the scenario  why throuput is down
+ASk in gemini 
+
+
+big query studio 
+
+- check for dataset
+-validate the 
+data profile
+data quality
+insights
+
+
+
+open big query 
+
+
+
+VERTEX AI 
